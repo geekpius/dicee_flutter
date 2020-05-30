@@ -1,5 +1,12 @@
 
-# 🎲Dicee 🎲
+
+[![Issues](https://img.shields.io/github/issues/geekpius/dicee_flutter)](https://packagist.org/packages)
+[![Forks](https://img.shields.io/github/forks/geekpius/dicee_flutter)](https://packagist.org/packages)
+[![Stars](https://img.shields.io/github/stars/geekpius/dicee_flutter)](https://packagist.org/packages)
+[![License](https://img.shields.io/github/license/geekpius/dicee_flutter)](https://packagist.org/packages)
+[![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fgeekpius%2Fdicee_flutter)](https://twitter.com/FiifiDr)
+
+# 🎲 Dicee 🎲
 
 ## Our Goal
 
